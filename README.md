@@ -1,6 +1,10 @@
 # Rails Boilerplate
 Rails boilerplate for our new rails projects
 
+## Auth
+* Google
+* Email
+
 ## Worker
 * Sidekiq
 
